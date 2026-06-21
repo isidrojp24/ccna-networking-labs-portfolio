@@ -78,7 +78,7 @@ Includes:
 ## 📜 Networking Certificates & Badges
 - Cisco Networking Academy (NetAcad) – Getting Started with Cisco Packet Tracer
 - Cisco Networking Academy (NetAcad) – Networking Basics 
-- Physical Networking Training Certification / Hands-on Lab Sessions  
+- Nexus Cloud IT Solutions Inc. - CCNA 200-301 Training 
 ## 📄Certifications in Progress
 - Cisco Networking Academy (NetAcad) – Network Technician
 - Cisco Networking Academy (NetAcad) – CCNA: Introduction to Networks
