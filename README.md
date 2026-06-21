@@ -23,31 +23,28 @@ This repository was created to:
 
 ## 📁 Repository Structure
 
+```
 ccna-networking-labs-portfolio/
-│
 ├── practice-labs/
 │   ├── basic-device-configurations/
 │   ├── subnetting-exercises/
-│   ├── vlan-basics
+│   ├── vlan-basics/
 │   ├── switching-basics/
 │   ├── routing-basics/
 │   ├── dhcp-labs/
-│   ├── network-security/
-│   └── network-automation/
-│
+│   └── network-security/
+├── network-automation/
 ├── projects/
 │   ├── small-office-network/
 │   ├── two-enterprise-network/
 │   └── hierarchical-campus-setup/
-│
 ├── diagrams/
 │   └── network-topologies/
-│
 ├── certificates/
 │   ├── netacad-certificates/
 │   └── training-certificates/
-│
 └── README.md
+```
 
 ---
 
@@ -107,9 +104,9 @@ This is a student learning repository created for educational purposes while stu
 
 ## 👨‍💻 Author
 **James Patrick Isidro**  
-BS Information Technology Student  
-Aspiring Network Engineer 
+BS Information Technology Student
 Polytechnic University of the Philippines - Sta. Mesa, Manila
+Aspiring Network Engineer 
 
 ---
 
