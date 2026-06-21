@@ -103,10 +103,10 @@ This is a student learning repository created for educational purposes while stu
 ---
 
 ## 👨‍💻 Author
-**James Patrick Isidro**  
-BS Information Technology Student
-Polytechnic University of the Philippines - Sta. Mesa, Manila
-Aspiring Network Engineer 
+**James Patrick Isidro**<br>
+BS Information Technology Student<br>
+Polytechnic University of the Philippines - Sta. Mesa, Manila<br>
+Aspiring Network Engineer
 
 ---
 
